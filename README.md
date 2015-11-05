@@ -1,4 +1,4 @@
-# .NET Core Libraries (CoreFX)
+# The .NET Core Libraries (CoreFX)
 
 |   |Linux|Windows|OS X|
 |:--|:--|:--|:--|
